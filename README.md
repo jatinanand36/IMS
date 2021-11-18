@@ -1,2 +1,2 @@
 # IMS
-This is identity management services.
+This is used to manage Identity of users.
